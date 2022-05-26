@@ -1,7 +1,7 @@
 # Animal-Trading-Cards
 Animal Trading Card project from Udacity's Frontend Web Dev nanodegree program.
 <div align="center">
-    ![Screenshot](Screenshot 2022-05-25 10.40.38 PM.png)
+    ![Screenshot 2022-05-25 10 55 59 PM](https://user-images.githubusercontent.com/101473833/170412886-f35e4e10-8e43-4edd-b93a-6f189c1a0dd4.png)
 </div>
 
 ## Description 
