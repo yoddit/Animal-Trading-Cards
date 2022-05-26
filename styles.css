@@ -1,0 +1,60 @@
+body {
+    width: 1030px;
+    border-radius: 5px;
+}
+.outer {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    width: 1030px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 15px 50px;
+
+}
+.inner {
+    width: 300px;
+    padding-right: 25px;
+    margin: 10px;
+    border-radius: 15px 50px;
+    border: 3px solid white;
+    background-image: linear-gradient(red, yellow, green);
+    box-shadow: 5px 5px 10px black;
+}
+h3 {
+    text-align: center;
+    border: inset;
+    border-radius: 5px 30px;
+    margin: 5px;
+    padding: 3px;
+    width: 100%;
+    background-color: red;
+    color: white;
+    
+}
+img {
+    padding:5px;
+    margin: 3px;
+    border-radius: 5px 50px;
+    border: outset;
+}
+.facts {
+    border: inset;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 15px 50px;
+    width: 100%;
+    background-color: yellow;
+}
+#curvy {
+    font-style: italic;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+.funfacts {
+    font-weight: bold;
+}
