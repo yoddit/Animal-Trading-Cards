@@ -25,7 +25,7 @@ Many different uses, ie games, educational, informative decal
 
 ### Acknowledgements
 
-Thanks to my classmates who helped inspire this template.
+Thanks to my classmates who helped inspire this layout.
 
 ### To-do
 
